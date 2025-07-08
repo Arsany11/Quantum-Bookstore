@@ -57,16 +57,15 @@ src/
 javac *.java
 java Main
 
-## 📦 Example Console Output
+## 📌 Sample Output
 
-Quantum book store - Added book: P123
-Quantum book store - Added book: E456
+- `Quantum book store - Added book: P123`
+- `Quantum book store - Added book: E456`
+- `Shipped Done`
+- `Quantum book store - Purchase successful. Total cost: $300.0`
+- `Quantum book store - Email sent with eBook [E456] to arsany@example.com`
+- `Quantum book store - Can only buy 1 eBook at a time.`
+- `Quantum book store - Book with ISBN NOTFOUND not found.`
+- `Quantum book store - Removed outdated book: P123`
 
-Shipped Done
-Quantum book store - Purchase successful. Total cost: $300.0
-Quantum book store - Email sent with eBook [E456] to arsany@example.com
-Quantum book store - Can only buy 1 eBook at a time.
-Quantum book store - Book with ISBN NOTFOUND not found.
-
-Quantum book store - Removed outdated book: P123
 

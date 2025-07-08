@@ -57,6 +57,8 @@ src/
 javac *.java
 java Main
 
+## 📦 Example Console Output
+
 Quantum book store - Added book: P123
 Quantum book store - Added book: E456
 
